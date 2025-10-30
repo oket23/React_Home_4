@@ -1,12 +1,14 @@
 import MainLayout from "./ui/main-layout/MainLayout.tsx";
+import TaskTracker from "./components/taskTracker/TaskTracker.tsx";
 
 function App() {
 
     return (
-    <MainLayout>
-        <h1>Hello developer!</h1>
-    </MainLayout>
+        <MainLayout>
+            <TaskTracker/>
+        </MainLayout>
 
     )
 }
+
 export default App
