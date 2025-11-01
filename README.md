@@ -59,7 +59,7 @@ Follow these steps to set up and run the project locally:
 
 ### Clone the repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/oket23/React_Home_4
 cd react_app # Or your project's root directory
 ```
 
